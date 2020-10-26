@@ -12,4 +12,7 @@ I like
 [<img align="left" alt="Batch" width="40px" height="40px" src="http://s1.iconbird.com/ico/0512/Pleasant/file1337622849.png"/>]
 [<img align="left" alt="HTML / CSS / JavaScript" width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTraQ27hl5HdKrnSYlRPBn6IETt9p-6ZYgWSQ&usqp=CAU"/>]
 <br>
+<br>
+<br>
+<br>
 [<img align="left" alt="BADGE" width="350px" src="https://www.codewars.com/users/anufrievalex2006/badges/large"/>]
