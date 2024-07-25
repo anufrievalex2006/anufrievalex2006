@@ -2,7 +2,7 @@
 
 I like
 - :computer: programming
-- :bar_chart: maths
+- :bar_chart: math
 - :video_game: video games
 
 ### My skills
