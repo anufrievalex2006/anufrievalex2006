@@ -1,16 +1,21 @@
-### Hi there
+# About me
+Junior Frontend-developer
 
-I like
-- :computer: programming
-- :bar_chart: math
-- :video_game: video games
+Working with React + TypeScript, as well as HTML + CSS + JS.
+Also studying Backend (firstly ASP.NET Core, now in Java + Spring Boot)
 
-### My skills
-<img align="left" alt="C#" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/150px-C_Sharp_wordmark.svg.png"/>
-<img align="left" alt="C++" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/71px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" alt="Python" width="40px" height="40px" src="https://entredatos.es/wp-content/uploads/2021/05/1200px-Python-logo-notext.svg.png"/>
-<br>
-<br>
-<br>
-<br>
-<img align="left" alt="BADGE" width="350px" src="https://www.codewars.com/users/anufrievalex2006/badges/large"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## My hobbies
+- Prefer listening to some music and play computer games
+- Love studying languages (English, German, Spanish, Turkish)
+- Always ready to learn something new :)
